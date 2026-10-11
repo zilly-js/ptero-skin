@@ -34,7 +34,11 @@ If the skin doesn't appear on Bot-Hosting.net, open `about:addons`, select the e
 
 ### Chrome and other Chromium browsers
 
-Install from the Chrome Web Store: *(link coming soon)*
+Install from the Chrome Web Store [here](https://chromewebstore.google.com/detail/pterodactyl-skin-for-bot/ncckbgmiecommbehpcpmihkmphnepmgg?authuser=0&hl=en)
+
+1. Click the Chrome Web Store link and add the extension to Chrome.
+2. Go to your Extension Manager and click "Pterodactyl Skin for Bot-hosting.net", it should be enabled by default.
+3. Visit Bot-hosting.net and navigate to the dashboard, if the skin doesn't load, hard refresh the page and it should apply.
 
 ## Usage
 
