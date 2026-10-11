@@ -40,6 +40,8 @@ Install from the Chrome Web Store [here](https://chromewebstore.google.com/detai
 2. Go to your Extension Manager and click "Pterodactyl Skin for Bot-hosting.net", it should be enabled by default.
 3. Visit Bot-hosting.net and navigate to the dashboard, if the skin doesn't load, hard refresh the page and it should apply.
 
+The extension updates itself automatically through the Chrome Web Store. Updates to the Chrome Extension will be delayed compared to the Firefox version.
+
 ## Usage
 
 Click the extension icon to open the settings panel. From there you can:
