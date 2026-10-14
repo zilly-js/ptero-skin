@@ -25,8 +25,9 @@ A browser extension that restyles the [Bot-Hosting.net](https://bot-hosting.net)
 
 ### Firefox
 
-1. Download the latest signed `.xpi` file from [zillies.dev/ptero-skin](https://zillies.dev/ptero-skin/0.3.1/PteroSkin-0.3.1.xpi).
-2. Open the file in Firefox, or drag it onto a Firefox window, and confirm the install.
+1. Visit [zillies.dev/ptero-skin](https://zillies.dev/ptero-skin/0.3.1/PteroSkin-0.3.1.xpi) to download the recent `.xpi` straight into Firefox.
+2. Firefox may prompt you with a confirmation before the Extension is added to your browser.
+3. The extension is Active by default, so you may have to refresh any open Bot-Hosting.net tabs.
 
 The extension updates itself automatically from the `updates.json` found on [zillies.dev](https://zillies.dev/ptero-skin/updates.json).
 
